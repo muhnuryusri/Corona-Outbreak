@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: d7ad8f1826b9f914fafd48c2307284a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6652949319783555676
+    second: Special Weapon Effect 1_0
+  - first:
+      213: 7740904014482803129
+    second: Special Weapon Effect 1_1
+  - first:
+      213: -8287897217933551842
+    second: Special Weapon Effect 1_2
+  - first:
+      213: -6601815149684629412
+    second: Special Weapon Effect 1_3
+  - first:
+      213: 7050773117126752877
+    second: Special Weapon Effect 1_4
+  - first:
+      213: 6512950740123654512
+    second: Special Weapon Effect 1_5
+  - first:
+      213: -4886195143229189679
+    second: Special Weapon Effect 1_6
+  - first:
+      213: -4568446640396662453
+    second: Special Weapon Effect 1_7
+  - first:
+      213: 6634837342272241828
+    second: Special Weapon Effect 1_8
+  - first:
+      213: -1168735596823662588
+    second: Special Weapon Effect 1_9
+  - first:
+      213: -3546372787278617813
+    second: Special Weapon Effect 1_10
+  - first:
+      213: 6888278870573470978
+    second: Special Weapon Effect 1_11
+  - first:
+      213: -7815803314703926657
+    second: Special Weapon Effect 1_12
+  - first:
+      213: -5715569138515875677
+    second: Special Weapon Effect 1_13
+  - first:
+      213: -8319420776498482091
+    second: Special Weapon Effect 1_14
+  - first:
+      213: -6540417672115817398
+    second: Special Weapon Effect 1_15
+  - first:
+      213: -4278851052450108085
+    second: Special Weapon Effect 1_16
+  - first:
+      213: 8295570376604260713
+    second: Special Weapon Effect 1_17
+  - first:
+      213: -2158683467514244544
+    second: Special Weapon Effect 1_18
+  - first:
+      213: 7266426137770447751
+    second: Special Weapon Effect 1_19
+  - first:
+      213: 7791442488075873155
+    second: Special Weapon Effect 1_20
+  - first:
+      213: -3296720553542239697
+    second: Special Weapon Effect 1_21
+  - first:
+      213: 2470467181853503504
+    second: Special Weapon Effect 1_22
+  - first:
+      213: -6721897398094944159
+    second: Special Weapon Effect 1_23
+  - first:
+      213: -5389141776140995902
+    second: Special Weapon Effect 1_24
+  - first:
+      213: 5962200275410325089
+    second: Special Weapon Effect 1_25
+  - first:
+      213: -5407708594951997113
+    second: Special Weapon Effect 1_26
+  - first:
+      213: -6154515157846804296
+    second: Special Weapon Effect 1_27
+  - first:
+      213: 6535969886521118304
+    second: Special Weapon Effect 1_28
+  - first:
+      213: -2835378964987625592
+    second: Special Weapon Effect 1_29
+  - first:
+      213: 8878069551945095873
+    second: Special Weapon Effect 1_30
+  - first:
+      213: -5924214658246090711
+    second: Special Weapon Effect 1_31
+  - first:
+      213: 4792900052663870298
+    second: Special Weapon Effect 1_32
+  - first:
+      213: 3783240770116360957
+    second: Special Weapon Effect 1_33
+  - first:
+      213: 5278667922507026232
+    second: Special Weapon Effect 1_34
+  - first:
+      213: -5530173294193608392
+    second: Special Weapon Effect 1_35
+  - first:
+      213: -2925945031503838663
+    second: Special Weapon Effect 1_36
+  - first:
+      213: 2698916747460614769
+    second: Special Weapon Effect 1_37
+  - first:
+      213: 3281768876338893630
+    second: Special Weapon Effect 1_38
+  - first:
+      213: 1415586671244782634
+    second: Special Weapon Effect 1_39
+  - first:
+      213: 4361726141438047035
+    second: Special Weapon Effect 1_40
+  - first:
+      213: -2371441644603929063
+    second: Special Weapon Effect 1_41
+  - first:
+      213: -2544836185618541657
+    second: Special Weapon Effect 1_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_6
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 48
+        width: 515
+        height: 784
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d598c76fb03cb0800000000000000
+      internalID: -4886195143229189679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_10
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 51
+        width: 566
+        height: 781
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23652d4db0c8cec0800000000000000
+      internalID: -3546372787278617813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_13
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 53
+        width: 560
+        height: 780
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86391a6283ea0b0800000000000000
+      internalID: -5715569138515875677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_17
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 44
+        width: 564
+        height: 789
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96910c24e49cf1370800000000000000
+      internalID: 8295570376604260713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 55
+        width: 507
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7493f052fa5f3f4b0800000000000000
+      internalID: -5407708594951997113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_35
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 57
+        width: 389
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839fc3560b0e043b0800000000000000
+      internalID: -5530173294193608392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 53
+        width: 206
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca250d39c25a310800000000000000
+      internalID: 1415586671244782634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e80df7362f61fd0800000000000000
+      internalID: -2371441644603929063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Weapon Effect 1_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 53
+        width: 76
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a395a8e8fceeacd0800000000000000
+      internalID: -2544836185618541657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
